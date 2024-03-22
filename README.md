@@ -2,6 +2,15 @@ Simulation of the Biological process of Transcription and visualization with a 2
 Developed by the Bioinformatician Christos Botos.
 Written in both Python and C.
 
+**Versions**
+[Botos_DNA_Transcription_Simulation_v0.6] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.6)
+[Botos_DNA_Transcription_Simulation_v0.5] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.5)
+[Botos_DNA_Transcription_Simulation_v0.4] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.4)
+[Botos_DNA_Transcription_Simulation_v0.3] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.3)
+[Botos_DNA_Transcription_Simulation_v0.2] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.2)
+[Botos_DNA_Transcription_Simulation_v0.1] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.1)
+
+**Possible Uses**
 The code is designed to be easy to read and manipulate to your situation. 
 For example there is already a class "obstacles.py" that you can use for any point where an RNA pol may pause.
 You can use this to create your own kind of pause site, for example we added lesions(DNA damage areas) see how lesions where implemented for inspiration.
