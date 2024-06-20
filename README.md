@@ -3,7 +3,7 @@ Developed by the Bioinformatician Christos Botos.
 Written in both Python and C.
 
 
-**Versions**
+**Versions**  (currently private)
 
 [Botos_DNA_Transcription_Simulation_v0.7] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.7)
 
