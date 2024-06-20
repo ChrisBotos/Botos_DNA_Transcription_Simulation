@@ -6,11 +6,17 @@ Written in both Python and C.
 **Versions**
 
 [Botos_DNA_Transcription_Simulation_v0.7] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.7)
+
 [Botos_DNA_Transcription_Simulation_v0.6] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.6)
+
 [Botos_DNA_Transcription_Simulation_v0.5] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.5)
+
 [Botos_DNA_Transcription_Simulation_v0.4] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.4)
+
 [Botos_DNA_Transcription_Simulation_v0.3] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.3)
+
 [Botos_DNA_Transcription_Simulation_v0.2] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.2)
+
 [Botos_DNA_Transcription_Simulation_v0.1] (https://github.com/ChrisBotos/Botos_DNA_Transcription_Simulation_v0.1)
 
 
